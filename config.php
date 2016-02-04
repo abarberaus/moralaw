@@ -1,7 +1,7 @@
 <?php
 //Contact form config
 //$email_to = "support@themeleaf.com";
-$email_to = "dev@grandiz.com";
+$email_to = "abarberaus@gmail.com";
 $email_subject = "Feedback form submitted";
 
 //recaptcha config
