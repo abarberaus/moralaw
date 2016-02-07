@@ -6,7 +6,7 @@ jQuery(document).ready(function() {
 	/* styler config */
 	
 	default_settings = {
-		color: '#660000',
+		color: '#203C54',
 		pattern: 'none', 			/* 'pattern_0', 'pattern_1' ... 'pattern_15' or 'none'  -  you can use if layout isn't  'full-width' */
 		bg: 'none', 				/* 'image_0',  'image_1'  ... 'image_3' or 'none'  -  you can use if layout isn't  'full-width' */
 		layout: 'full-width', 		/* 'full-width', 'boxed', 'boxed-attached'  */
@@ -15,7 +15,7 @@ jQuery(document).ready(function() {
 		sideBarWidth: 'maxi' 		/* 'maxi', 'mini'  */
 	}
 	
-	enable_style_switcher = true;  /* enable or disable style switcher */
+	enable_style_switcher = false;  /* enable or disable style switcher */
 	
 	/* end styler config */
 	
