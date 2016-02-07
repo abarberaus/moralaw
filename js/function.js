@@ -209,8 +209,8 @@ function map(){
 }
 
 function map_initialize() {
-    var myLatlngCenter = new google.maps.LatLng(32.83823,-96.775347); 
-    var myMarker = new google.maps.LatLng(32.83823,-96.775347);
+    var myLatlngCenter = new google.maps.LatLng(31.7601342,-106.4926369); 
+    var myMarker = new google.maps.LatLng(31.7601342,-106.4926369);
 
 
     var mapEl = document.getElementById('map');
@@ -225,7 +225,7 @@ function map_initialize() {
         var marker1 = new google.maps.Marker({
             position: myMarker,
             map: map,
-            title:"5321 E Mockingbird Ln, Dallas, TX 75206",
+            title:"221 North Kansas St., El Paso, TX 79901",
             icon: 'img/map_marker.png'
         });
         google.maps.event.addDomListener(window, 'resize', function() {
