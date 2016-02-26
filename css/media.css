@@ -760,7 +760,7 @@
 	.results .carousel.results_carousel ul li .review .status i {
 		display:none;
 	}
-	.honors {
-		display:none;
+	.honors ul li {
+		width: 44%;
 	}
 }
