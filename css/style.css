@@ -1725,6 +1725,7 @@ form {
 }
 .attorneys .person > .img img {
 	width:80%;
+    margin-left: 10%;
     box-shadow: #ccc 1px 3px 3px;
 }
 .attorneys .person > .text {
