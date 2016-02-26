@@ -1548,14 +1548,16 @@ form {
 	background:#eaeaea;
 }
 .honors ul {
+    margin: 0;
+    width: 100%;
 }
 .honors ul li {
-	float:left;
-	width:16.65%;
-	text-align:center;
-	list-style:none;
-	height:100px;
-	line-height:100px;
+    float: left;
+    margin-right: 3%;
+    margin-left: 3%;
+    width: 19%;
+    text-align: center;
+    list-style: none;
 }
 .honors ul li a {
 	display:inline-block;
