@@ -2510,3 +2510,13 @@ form {
     color: #0578B0;
     padding: 10px 20px;
 }
+
+.icon-facebook-sign {
+    font-size: 23px;
+    margin-left: 20px;
+    color: #203C54;
+}
+
+.icon-facebook-sign:hover {
+    color: #0088cc;
+}
