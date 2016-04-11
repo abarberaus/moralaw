@@ -2534,3 +2534,7 @@ form {
 .no_uppercase > li > a {
     text-transform: none;
 }
+
+.attorneys .person > .text {
+    padding-top: 0;
+}
