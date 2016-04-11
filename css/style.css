@@ -2530,3 +2530,7 @@ form {
     padding: 0;
     line-height: 30px;
 }
+
+.no_uppercase > li > a {
+    text-transform: none;
+}
