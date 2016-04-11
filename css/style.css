@@ -2520,3 +2520,13 @@ form {
 .icon-facebook-sign:hover {
     color: #0088cc;
 }
+
+.my_header_text {
+    font-size: 28px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    border: 0;
+    padding: 0;
+    line-height: 30px;
+}
