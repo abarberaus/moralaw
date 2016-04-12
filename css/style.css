@@ -2538,3 +2538,7 @@ form {
 .attorneys .person > .text {
     padding-top: 0;
 }
+
+div.text ul li a {
+    padding-left: 0;
+}
