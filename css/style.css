@@ -2539,7 +2539,7 @@ form {
     padding-top: 0;
 }
 
-.info_slides > li.active a {
+#awards_text a {
     padding: 0;
     color: #4F8BCC;
 }
