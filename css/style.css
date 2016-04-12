@@ -2539,6 +2539,7 @@ form {
     padding-top: 0;
 }
 
-div.text ul li a {
-    padding-left: 0;
+.info_slides > li.active a {
+    padding: 0;
+    color: #4F8BCC;
 }
